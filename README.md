@@ -2,9 +2,9 @@
 *Created using python 3.9.2*
 
 ## About
-![image](https://user-images.githubusercontent.com/63284781/127433328-cada252f-8e4c-4b7d-a5be-c32b73f80962.png)
-
 A simple python script that organizes files to folders by their name. 
+
+![image](https://user-images.githubusercontent.com/63284781/127433328-cada252f-8e4c-4b7d-a5be-c32b73f80962.png)
 
 For the example, I have files like this and want to organize them into a folder by their name. That is Lesson 1, Lesson 2,..., Lesson 25. 
 
